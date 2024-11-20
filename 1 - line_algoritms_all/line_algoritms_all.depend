@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606751565 source:f:\3_graphic design\graphics labs_2\line_algoritms_all\main.cpp
+	<iostream>
+	<tchar.h>
+	<windows.h>
+
