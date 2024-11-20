@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608690656 source:f:\3_graphic design\graphics labs_2\ellipse\main.cpp
+	<iostream>
+	<cmath>
+	<tchar.h>
+	<windows.h>
+
